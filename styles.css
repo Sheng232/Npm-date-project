@@ -1,14 +1,16 @@
 *{
     box-sizing: border-box;
 }
+main{
+    height: 90vh;
+}
 .event{
-    border: 1px solid black;
     padding: 1rem;
     width: 50%;
 }
 .large-bold{
     font-family:'Courier New', Courier, monospace;
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: bold;
 }
 .small-bold{
@@ -28,10 +30,10 @@
     color: gray;
 }
 .gsc-input-box{
-    width: 600px;
+    width: auto;
 }
 .hello-text{
-    font-family:'Courier New', Courier, monospace;
-    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem;
     font-weight: bold;
 }
