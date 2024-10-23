@@ -1,3 +1,23 @@
 *{
     box-sizing: border-box;
 }
+.event{
+    border: 1px solid black;
+    padding: 1rem;
+}
+.large-bold{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.small-bold{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: right;
+}
+.flexbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
